@@ -1,0 +1,4 @@
+digraph {
+Node0x32594e0[label="  %469 = icmp eq i32 %.main_result.2, 15..."];
+Node0x32594e0 -> Node0x32594e0[label="D:2.49ns L:0",color=blue];
+}
