@@ -56,7 +56,7 @@ def run_benchmark(bm_name, num_loop):
     pgm_dir = "../dataset"
     programs = lsBinaries(pgm_dir)
     programs = []
-    for i in range (8979, 18696):
+    for i in range (0, 18696):
         programs.append(pgm_dir+"/"+str(i))
     
   elif bm_name == "chstone":
