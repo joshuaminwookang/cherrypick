@@ -1,6 +1,6 @@
 # CherryPick
 ## Learning-Based Hardware Acceleration Performance Estimation
-CS 289A Introduction to Machine Learning Project
+CS 289A Introduction to Machine Learning (Fall 2020) Project F
 
 Team NJ: Minwoo Kang and Nikolay Velkov
 
